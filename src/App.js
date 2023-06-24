@@ -66,6 +66,39 @@ qilamiz.</h1>
 mumkin. Buning uchun qidiruv tizimidan foydalaning</p>
 <input className='input' type="text" placeholder='Qanday kurs o’rganmoqchisiz ?' />
       </div>
+      <div className="ddd">
+<div className="dd">
+<div className="bir">
+ <div className="b"> 
+ <button className='bu'>Marketing</button> 
+ <h4 className='d'>250.000 <span>UZS</span></h4>
+ </div>
+  <h1 className='rr'>Raqamli marketing bo'yicha <br /> 
+to'liq kurs <span>| 48 soat</span></h1>
+<div className="i"></div>
+</div>
+<div className="ikki">
+<div className="ik"> 
+ <button className='bi'>Dasturlash</button> 
+ <h4 className='ko'>250.000 <span>UZS</span></h4>
+ </div>
+  <h1 className='rp'>Java Spring bo’yicha <br /> to’liq
+kurs(amaliy)</h1>
+<div className="i"></div>
+
+</div>
+</div>
+<div className="d">
+<div className="uch"></div>
+<div className="tor"></div>
+</div>
+
+
+
+
+
+
+      </div>
     </div>
  
       </div>
