@@ -89,8 +89,23 @@ kurs(amaliy)</h1>
 </div>
 </div>
 <div className="d">
-<div className="uch"></div>
-<div className="tor"></div>
+<div className="uch">
+<div className="uc"> 
+ <button className='ci'>Dasturlash</button> 
+ <h4 className='kf'>250.000 <span>UZS</span></h4>
+ </div>
+  <h1 className='rd'>Java Spring bo’yicha <br /> to’liq
+kurs(amaliy)</h1>
+<div className="i"></div>
+</div>
+<div className="tor">
+
+</div>
+
+
+
+
+</div>
 </div>
 
 
@@ -101,7 +116,6 @@ kurs(amaliy)</h1>
       </div>
     </div>
  
-      </div>
     )
   }
 }

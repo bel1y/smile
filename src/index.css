@@ -104,18 +104,20 @@ margin-top: 20px;
 }
 }
 .bir{
-  width: 400px;
+  width: 450px;
   height: 180px;
   background-color: white;
   border-radius: 4px;
  margin: auto;
- margin-left: 1050px;
+ margin-left: 1150px;
  z-index: 1234;
  position: relative;
 margin-top: -400px;
   @media (max-width:1500px) {
+    width: 350px;
     margin-left: 40px;
     margin-top: 40px;
+    
   }
 }
 .b{
@@ -176,13 +178,13 @@ margin-top: 20px;
   background-color: white;
   border-radius: 4px;
  margin: auto;
- margin-left: 1500px;
+ margin-left: 1660px;
  z-index: 1234;
  position: relative;
 margin-top: -180px;
   @media (max-width:1500px) {
-    margin-left: 40px;
-    margin-top: 40px;
+    margin-left: 430px;
+    margin-top: -180px;
   }
 }
 .ko span{
@@ -205,6 +207,95 @@ margin-left: 20px;
   margin-top: 10px;
 }
 .rp span{
+  color: gray;
+  font-size: 20px;
+}
+.uch{
+  width: 450px;
+  height: 180px;
+  background-color: white;
+  border-radius: 4px;
+ margin: auto;
+ margin-left: 1180px;
+ z-index: 1234;
+ position: relative;
+margin-top: 50px;
+  @media (max-width:1500px) {
+    width: 350px;
+    margin-left: 40px;
+    margin-top: 40px;
+    
+  }
+}
+.uc{
+  display: flex;
+  justify-content: space-around;
+  
+}
+.ci{
+  width: 80px;
+  height: 22px;
+  background-color: #10C8A0;
+  border-radius: 2px;
+  border: none;
+  color: white;
+  font-size: 14px;
+  margin-top: 20px;
+  margin-left: -40px;
+}
+.kf span{
+  color: gray;
+  font-size: 15px;
+  
+}
+.kf{
+margin-top: 20px;
+margin-left: 20px;
+}
+.rd{
+  font-size: 25px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.rd span{
+  color: gray;
+  font-size: 20px;
+}
+.top{
+  width: 400px;
+  height: 180px;
+  background-color: white;
+  border-radius: 4px;
+ margin: auto;
+ margin-left: 1660px;
+ z-index: 1234;
+ position: relative;
+margin-top: -180px;
+  @media (max-width:1500px) {
+    margin-left: 430px;
+    margin-top: -180px;
+  }
+}
+.ke span{
+  color: gray;
+  font-size: 15px;
+  
+}
+.ke{
+margin-top: 20px;
+margin-left: 20px;
+}
+.ui{
+  display: flex;
+  justify-content: space-around;
+  
+}
+.hd{
+  font-size: 25px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.hd span{
   color: gray;
   font-size: 20px;
 }
