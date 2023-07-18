@@ -91,15 +91,21 @@ kurs(amaliy)</h1>
 <div className="d">
 <div className="uch">
 <div className="uc"> 
- <button className='ci'>Dasturlash</button> 
- <h4 className='kf'>250.000 <span>UZS</span></h4>
+                  <button className='ci'>Dizayn</button> 
+ <h4 className='kf'>400.000 <span>UZS</span></h4>
  </div>
-  <h1 className='rd'>Java Spring bo’yicha <br /> to’liq
-kurs(amaliy)</h1>
+                <h1 className='rd'>Illustrator 0 dan professionalgacha <br />
+                  to’liq  kurs</h1>
 <div className="i"></div>
 </div>
 <div className="tor">
-
+                <div className="uc">
+                  <button className='oi'>Biznes</button>
+                  <h4 className='kf'>400.000 <span>UZS</span></h4>
+                </div>
+                <h1 className='rd'>Shaxsiy biznersni rivojlantirishda <br />
+                  e’tibor berish kerak bo’lgan</h1>
+                <div className="i"></div>
 </div>
 
 
@@ -113,6 +119,36 @@ kurs(amaliy)</h1>
 
 
 
+      </div>
+      <div className="dva">
+          <div className="lk">Bizning eng top kurslarimizni ko'rib chiqing</div>
+          <div className="kotttta">
+<div className="ikktakichkina">
+<div className="dasturlash">
+  <div className="s"></div>
+                <h1 className='dfgs'>Java, Spring bo’yicha to’liq <br />
+                  kurs. (amaliy)</h1>
+                  <div className="bid"></div>
+  <div className="binima">
+    <div className="bini">
+                    <h4 className='tyui'>Kurs hajmi</h4>
+      <h1 className='css'>38 soat</h1>
+    </div>
+<div className="ima">
+                    <h4 className='sddd'>Kurs narxi</h4>
+                    <h1 className='cvbnm'>250.000 UZS</h1>
+</div>
+  </div>
+</div>
+<div className="dizayn"></div>
+</div>
+<div className="ikkinchi">
+<div className="dizayn2"></div>
+<div className="biznes"></div>
+</div>
+
+
+          </div>
       </div>
     </div>
  

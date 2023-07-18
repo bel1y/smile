@@ -1,11 +1,11 @@
 .lo{
   width: 98px;
   height: 45.2px;
-  margin-left: -50px;
+  margin-left: 130px;
   background: url(./Group\ \(3\).png);
   @media (max-width:1700px) {
     width: 98px;
-    margin-left: 40px;
+    margin-left: 0px;
   }
 }
 .gg{
@@ -45,10 +45,10 @@ padding-left: 5px;
   overflow: hidden;
 }
 .ye{
-  width: 800px;
-  height: 800px;
+  width: 600px;
+  height: 600px;
   background-color: yellow;
-  border-radius: 800px;
+  border-radius: 600px;
 position: absolute;
 right: -135px;
 top: -100px;
@@ -64,12 +64,13 @@ top: -100px;
 }
 .hh{
   color: white;
-  font-size: 55px;
+  font-size: 44px;
   margin-top: 100px;
   margin-left: 220px;
 @media (max-width:1500px) {
-  margin-left: 48px;
-  font-size: 35px;
+  width:50px;
+  font-size:15px;
+  
 }
 }
 .hh span{
@@ -82,14 +83,14 @@ top: -100px;
   color: white;
   margin-left: 220px;
   padding-top: 50px;
-  font-size: 25px;
+  font-size: 20px;
   @media (max-width:1500px) {
     margin-left: 48px;
     font-size: 25px;
   }
 }
 .input{
-  width:660px ;
+  width:565px ;
   height:60px ;
   margin-left: 220px;
   font-size: 22px;
@@ -104,12 +105,12 @@ margin-top: 20px;
 }
 }
 .bir{
-  width: 450px;
+  width: 400px;
   height: 180px;
   background-color: white;
   border-radius: 4px;
  margin: auto;
- margin-left: 1150px;
+ margin-left: 900px;
  z-index: 1234;
  position: relative;
 margin-top: -400px;
@@ -143,7 +144,7 @@ margin-top: -400px;
 }
 .d{
 margin-top: 20px;
-margin-left: 20px;
+margin-left: 40px;
 }
 .rr{
   font-size: 25px;
@@ -178,7 +179,7 @@ margin-top: 20px;
   background-color: white;
   border-radius: 4px;
  margin: auto;
- margin-left: 1660px;
+ margin-left: 1350px;
  z-index: 1234;
  position: relative;
 margin-top: -180px;
@@ -211,12 +212,12 @@ margin-left: 20px;
   font-size: 20px;
 }
 .uch{
-  width: 450px;
+  width: 410px;
   height: 180px;
   background-color: white;
   border-radius: 4px;
  margin: auto;
- margin-left: 1180px;
+ margin-left: 900px;
  z-index: 1234;
  position: relative;
 margin-top: 50px;
@@ -235,7 +236,7 @@ margin-top: 50px;
 .ci{
   width: 80px;
   height: 22px;
-  background-color: #10C8A0;
+  background-color: #11BDF3;
   border-radius: 2px;
   border: none;
   color: white;
@@ -254,6 +255,7 @@ margin-left: 20px;
 }
 .rd{
   font-size: 25px;
+  width: 500px;
   margin-left: 20px;
   margin-top: 10px;
 }
@@ -298,4 +300,66 @@ margin-left: 20px;
 .hd span{
   color: gray;
   font-size: 20px;
+}
+.tor {
+  width: 410px;
+  height: 180px;
+  background-color: white;
+  border-radius: 4px;
+  margin: auto;
+  margin-left: 1360px;
+  z-index: 1234;
+  position: relative;
+  margin-top:-180px;
+
+  @media (max-width:1500px) {
+    width: 350px;
+    margin-left: 40px;
+    margin-top: 40px;
+
+  }
+}
+.oi {
+  width: 80px;
+  height: 22px;
+  background-color: #EB3B3B;
+  border-radius: 2px;
+  border: none;
+  color: white;
+  font-size: 14px;
+  margin-top: 20px;
+  margin-left: -40px;
+}
+.lk{
+  font-size: 30px;
+  text-align: center;
+  margin-top: 60px;
+}
+.s{
+  width: 540px;
+  height: 188px;
+  background: url(./image\ 3\(2\).png);
+  margin-left: 170px;
+  margin-top: 80px;
+}
+.dfgs{
+  font-size: 30px;
+  margin-left: 170px;
+  margin-top: 20px;
+}
+.bid{
+  width: 126px;
+    height: 18px;
+    margin-left: 170px;
+    margin-top: 20px;
+    
+  background: url(./Group\ 5.png);
+}
+.binima{
+    width: 540px;
+      height: 188px;
+  display: flex;
+  justify-content: space-around;
+  margin-left: 120px;
+  margin-top: 20px;
 }
