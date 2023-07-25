@@ -140,11 +140,42 @@ kurs(amaliy)</h1>
 </div>
   </div>
 </div>
-<div className="dizayn"></div>
+<div className="dizayn">
+                <div className="baho"></div>
+                <h1 className='dfgn'>Java, Spring bo’yicha to’liq <br />
+                  kurs. (amaliy)</h1>
+                <div className="bud"></div>
+                <div className="bihnima">
+                  <div className="bini">
+                    <h4 className='tyui'>Kurs hajmi</h4>
+                    <h1 className='css'>38 soat</h1>
+                  </div>
+                  <div className="ima">
+                    <h4 className='sddd'>Kurs narxi</h4>
+                    <h1 className='cvbnm'>250.000 UZS</h1>
+                  </div>
+                </div>
+</div>
 </div>
 <div className="ikkinchi">
-<div className="dizayn2"></div>
+<div className="dizayn2">
+                <div className="baxho"></div>
+                <h1 className='dfgcn'>Java, Spring bo’yicha to’liq <br />
+                  kurs. (amaliy)</h1>
+                <div className="bpd"></div>
+                <div className="bipnima">
+                  <div className="bini">
+                    <h4 className='tyui'>Kurs hajmi</h4>
+                    <h1 className='css'>38 soat</h1>
+                  </div>
+                  <div className="ima">
+                    <h4 className='sddd'>Kurs narxi</h4>
+                    <h1 className='cvbnm'>250.000 UZS</h1>
+                  </div>
+                </div>
+</div>
 <div className="biznes"></div>
+<div className="buxgalteria"></div>
 </div>
 
 

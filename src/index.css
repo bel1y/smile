@@ -363,3 +363,102 @@ margin-left: 20px;
   margin-left: 120px;
   margin-top: 20px;
 }
+.baho {
+  width: 540px;
+  height: 188px;
+  background: url(./image\ 3\(2\).png);
+  margin-left: 90px;
+  margin-top: 0px;
+}
+
+.dfgn{
+  font-size: 30px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.bud {
+  width: 126px;
+  height: 18px;
+  margin-left: 100px;
+  margin-top: 20px;
+
+  background: url(./Group\ 5.png);
+}
+
+.bihnima {
+  width: 540px;
+  height: 188px;
+  display: flex;
+  justify-content: space-around;
+  margin-left: 60px;
+  margin-top: 20px;
+}
+.ikktakichkina{
+  display: flex;
+}
+.dizayn{
+margin-left: -120px;
+width: 700px;
+  height: 450px;
+margin-left: 40px;
+margin: auto;
+margin-left: 20px;
+}
+
+.binima {
+  width: 540px;
+  height: 188px;
+  display: flex;
+  justify-content: space-around;
+  margin-left: 120px;
+  margin-top: 20px;
+}
+
+.baxho {
+  width: 350px;
+  height: 188px;
+  background: url(./image\ 3\(2\).png);
+  margin-left: 150px;
+  margin-top: 0px;
+}
+
+.dfgcn {
+  font-size: 30px;
+  margin-left: 150px;
+  margin-top: 20px;
+}
+
+.bpd {
+  width: 126px;
+  height: 18px;
+  margin-left: 150px;
+  margin-top: 20px;
+
+  background: url(./Group\ 5.png);
+}
+
+.bipnima {
+  width: 350px;
+  height: 188px;
+  display: flex;
+  justify-content: space-around;
+  margin-left: 150px;
+  margin-top: 20px;
+}
+.tyui{
+  
+}
+
+.ikkinchi {
+  display: flex;
+}
+
+.dizayn2 {
+  margin-left: -120px;
+  width: 700px;
+  height: 450px;
+  margin-left: 40px;
+  margin: auto;
+  margin-left: 20px;
+}
